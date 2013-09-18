@@ -1,0 +1,3 @@
+# Just a dummy requirement, as the Python buildpack requires it.
+
+platinfo
