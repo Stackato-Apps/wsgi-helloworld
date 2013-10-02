@@ -23,6 +23,7 @@ application = hello_world_app
 
 if __name__ == '__main__':
     port = int(os.getenv('PORT', '8000'))
-    srv = make_server('localhost', port, application)
+    srv = make_server('0.0.0.0', port, application)
+    print("Serving...")
     srv.serve_forever()
 
