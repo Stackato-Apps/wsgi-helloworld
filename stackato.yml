@@ -1,1 +1,3 @@
 name: wsgi-hello
+framework:
+  type: python
