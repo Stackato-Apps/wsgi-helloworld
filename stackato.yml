@@ -1,4 +1,4 @@
-name: wsgi-hello
+name: wsgi-helloworld
 
 framework:
   type: python
