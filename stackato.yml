@@ -1,4 +1,1 @@
 name: wsgi-helloworld
-
-framework:
-  type: python
