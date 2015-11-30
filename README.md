@@ -4,6 +4,6 @@
 
     python wsgi.py
 
-## Deploying to Stackato
+## Deploying to HPE Helion Stackato
 
     stackato push -n
